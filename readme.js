@@ -1,2 +1,1 @@
-console.log('mmm')
-console.log('ccc')
+console.log(222);пш
